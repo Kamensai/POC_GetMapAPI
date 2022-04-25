@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">POC_GetMapAPI</string>
+    <string name="hello_blank_fragment">Hello world!</string>
+    <string name="get_datas_from_API">GET DATAS</string>
+</resources>
