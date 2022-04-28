@@ -27,6 +27,23 @@ import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
 
+    /*
+
+        TODO : OSM France : https://www.openstreetmap.fr/utiliser/
+
+        TODO : Use OSM GITHUB In Application : https://github.com/osmdroid/osmdroid
+                Samples : https://github.com/osmdroid/osmdroid/tree/master/OpenStreetMapViewer/src/main/java/org/osmdroid
+                HELP :https://askcodez.com/comment-utiliser-osm-carte-dans-une-application-android-est-il-un-tutoriel-pour-apprendre-a-propos-de-lutilisation-de-losm-dans-android.html
+
+        TODO : GITHUB OSM HOME :  https://github.com/osmdroid/osmdroid/wiki
+
+        TODO : Use OSM In Activity : https://sanaebadi97.medium.com/learn-how-to-work-with-osm-map-in-android-app-ac42f933cbd3
+
+        TODO : OSM API :  https://wiki.openstreetmap.org/wiki/API_v0.6
+
+
+     */
+
     private MainFragment mainFragment;
     private final int REQUEST_PERMISSIONS_REQUEST_CODE = 1;
     private MapView map = null;
